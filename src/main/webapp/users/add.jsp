@@ -7,7 +7,7 @@
     <div class="col-xl-12 col-md-12 mb-2">
         <div class="card border-left-primary shadow h-100 py-2">
             <div class="card-body">
-                <form action="/AddServlet" method="post">
+                <form action="/add" method="post">
                     <div class="col-xl-12 col-md-12 mb-2">
                         <label for="username">Nazwa użytkownika</label>
                         <input name="username" type="text" id="username" class="form-control"
